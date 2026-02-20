@@ -1,0 +1,720 @@
+,BRAND,PRICE,DOORS,WATER_CAPACITY,STARS,WARRANTY,STABILIZER,COMPRESSOR_MODEL,COMPRESSOR_WARRANTY,PRICE_OFF,RATINGS
+0,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+1,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.4
+2,Samsung,13990,Single Door,183,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,30,4.5
+3,Samsung,16990,Single Door,183,5 Star,1 year,Built-in Stabilizer,Inverter Compressor,20 years,26,4.5
+4,Haier,11990,Single Door,185,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,29,4.3
+5,Samsung,15740,Single Door,183,4 Star,1 year,Built-in Stabilizer,Inverter Compressor,20 years,31,4.5
+6,Voltas,12790,Single Door,183,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,50,4.3
+7,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,20,4.3
+8,Samsung,25490,Double Door,236,3 Star,1 year,Built-in Stabilizer,Digital Inverter Compressor,20 years,37,4.4
+9,Haier,14490,Single Door,190,4 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,30,4.4
+10,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,24,4.3
+11,Whirlpool,16990,Single Door,192,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,23,4.4
+12,Voltas,14590,Single Door,183,4 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,46,4.4
+13,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.4
+14,Voltas,12790,Single Door,183,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,50,4.3
+15,Voltas,12290,Single Door,183,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,51,4.3
+16,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.2
+17,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.4
+18,Samsung,17890,Single Door,189,5 Star,1 year,Built-in Stabilizer,Digital Inverter Compressor,20 years,18,4.5
+19,MarQ,8490,Single Door,90,1 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,43,4.2
+20,Godrej,22490,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.2
+21,Haier,60990,Single Door,602,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,44,4.5
+22,Haier,15990,Single Door,190,5 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,34,4.4
+23,Samsung,15990,Single Door,183,4 Star,1 year,Built-in Stabilizer,Inverter Compressor,20 years,30,4.5
+24,Voltas,14990,Single Door,183,4 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,42,4.4
+25,Godrej,17990,Single Door,234,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,25,4.3
+26,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+27,Godrej,20790,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,38,4.2
+28,Voltas,15790,Single Door,183,5 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,44,4.4
+29,Samsung,13290,Single Door,183,2 Star,1 year,Built-in Stabilizer,Inverter Compressor,20 year,21,4.4
+30,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.4
+31,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,20,4.3
+32,Voltas,21490,Double Door,243,2 Star,1 Year,Built-in Stabilizer,Pro Smart Inverter Compressor,10 Years,41,4.2
+33,LG,15990,Single Door,185,4 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,28,4.4
+34,Samsung,17290,Single Door,183,5 Star,1 year,Built-in Stabilizer,Inverter Compressor,20 year,21,4.5
+35,Voltas,21490,Double Door,243,2 Star,1 Year,Built-in Stabilizer,Pro Smart Inverter Compressor,10 Year,41,4.2
+36,Whirlpool,17950,Single Door,207,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,21,4.4
+37,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,24,4.3
+38,Samsung,14490,Single Door,183,3 Star,1 year,Built-in Stabilizer,Inverter Compressor,20 years,23,4.4
+39,realme,12990,Single Door,183,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,50,4.1
+40,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.4
+41,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.2
+42,LG,16990,Single Door,185,5 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Year,28,4.5
+43,Voltas,12290,Single Door,183,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,51,4.3
+44,Godrej,13490,Single Door,183,3 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.3
+45,LG,16990,Single Door,185,5 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,24,4.5
+46,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.4
+47,Haier,60990,Single Door,602,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,44,4.5
+48,Haier,12990,Single Door,190,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Year,36,4.3
+49,Voltas,15490,Single Door,208,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,39,4.4
+50,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+51,Godrej,20790,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,38,4.2
+52,IFB,15990,Single Door,187,4 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 years,31,4.4
+53,Voltas,13990,Single Door,183,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,44,4.3
+54,Whirlpool,21990,Double Door,235,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,9 Years,27,4.2
+55,Lloyd,20690,Double Door,233,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,35,4.3
+56,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.4
+57,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,20,4.3
+58,LG,16990,Single Door,185,5 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,28,4.5
+59,LG,24990,Double Door,242,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,39,4.4
+60,Whirlpool,17950,Single Door,207,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,21,4.4
+61,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,24,4.3
+62,Whirlpool,18990,Single Door,207,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,21,4.4
+63,LG,28990,Double Door,272,3 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,32,4.3
+64,Whirlpool,28990,Single Door,270,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,24,4.2
+65,Samsung,28990,Double Door,256,3 Star,1 year,Built-in Stabilizer,Digital Inverter Compressor,20 years,35,4.3
+66,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.4
+67,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.2
+68,Whirlpool,14990,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,9 Years,26,4.3
+69,Haier,15990,Single Door,190,5 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,28,4.4
+70,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.4
+71,Haier,60990,Single Door,602,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,44,4.5
+72,Haier,15790,Single Door,190,4 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,34,4.4
+73,Voltas,47840,Single Door,472,2 Star,1 Year,Built-in Stabilizer,Pro Smart Inverter Compressor,12 Years,43,4.3
+74,realme,12990,Single Door,183,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,50,4.1
+75,realme,19490,Double Door,233,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,45,4.3
+76,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+77,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.4
+78,LG,43361,Double Door,398,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,28,4.4
+79,Godrej,14490,Single Door,180,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,34,4.4
+80,Godrej,20790,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,38,4.2
+81,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,20,4.3
+82,Samsung,77990,Single Door,653,3 Star,1 year,Built-in Stabilizer,Digital Inverter Compressor,20 years,30,4.3
+83,Godrej,14480,Single Door,180,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,34,4.4
+84,Voltas,53900,Single Door,563,2 Star,1 Year,Built-in Stabilizer,Pro Smart Inverter Compressor,12 Years,42,4.3
+85,BOSCH,17490,Single Door,187,5 Star,1 year,Built-in Stabilizer,Reciprocating Compressor,10 years,33,4.6
+86,Whirlpool,17950,Single Door,207,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,21,4.4
+87,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,24,4.3
+88,Haier,13999,Single Door,190,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,33,4.3
+89,Whirlpool,20470,Single Door,207,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.2
+90,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.4
+91,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.2
+92,Whirlpool,13770,Single Door,184,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,9 Years,26,4.3
+93,Samsung,37990,Double Door,322,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,20 Years,37,4.2
+94,Godrej,15790,Single Door,185,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,34,4.3
+95,CANDY,10990,Single Door,185,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.4
+96,Haier,95490,Single Door,520,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,37,4.2
+97,Haier,37490,Double Door,358,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,31,4.3
+98,Samsung,42990,Double Door,385,2 Star,1 year,Built-in Stabilizer,Reciprocating Compressor,20 years,37,4.2
+99,Voltas,13490,Single Door,183,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,49,4.3
+100,Haier,23990,Double Door,237,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,36,4.4
+101,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.4
+102,Samsung,24990,Double Door,236,2 Star,1 year,Built-in Stabilizer,Digital Inverter Compressor,20 years,30,4.4
+103,Godrej,14990,Single Door,180,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,34,4.4
+104,Samsung,17100,Single Door,183,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,20 Years,22,4.5
+105,Whirlpool,34490,Double Door,327,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.1
+106,Haier,32990,Double Door,328,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,31,4.3
+107,Haier,72590,Single Door,520,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,41,4.4
+108,LG,15990,Single Door,185,4 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,28,4.4
+109,Samsung,49190,Double Door,419,2 Star,1 year,Built-in Stabilizer,Reciprocating Compressor,20 year,32,4.2
+110,Haier,34990,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,31,4.3
+111,Haier,24990,Double Door,237,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,32,4.4
+112,IFB,21990,Double Door,243,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 years,31,4.3
+113,Samsung,18990,Single Door,223,3 Star,1 year,Built-in Stabilizer,Digital Inverter Compressor,20 years,26,4.4
+114,LG,18990,Single Door,201,5 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,24,4.4
+115,Samsung,17290,Single Door,183,5 Star,1 year,Built-in Stabilizer,Inverter Compressor,20 years,24,4.5
+116,Godrej,22490,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.2
+117,Haier,57990,Single Door,596,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,43,4.5
+118,BOSCH,33990,Single Door,303,3 Star,1 Year,Built-in Stabilizer,Vario Inverter Compressor,10 Years,41,4.4
+119,Samsung,25990,Double Door,236,3 Star,1 year,Built-in Stabilizer,Inverter Compressor,20 years,38,4.4
+120,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+121,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.4
+122,Samsung,17999,Single Door,223,3 Star,1 year,Built-in Stabilizer,Inverter Compressor,20 years,25,4.4
+123,Samsung,19990,Single Door,215,5 Star,1 Year,Built-in Stabilizer,Digital Inverter Compressor,10 Years,25,4.5
+124,Haier,13990,Single Door,190,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,39,4.3
+125,realme,44990,Single Door,584,2 Star,1 Year,Built-in Stabilizer,Advanced Inverter Compressor,10 Years,48,4.4
+126,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,20,4.3
+127,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,24,4.3
+128,realme,45990,Single Door,584,2 Star,1 Year,Built-in Stabilizer,Advanced Inverter Compressor,10 Years,48,4.3
+129,Godrej,22490,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.2
+130,Whirlpool,16990,Single Door,192,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,23,4.4
+131,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.4
+132,realme,13990,Single Door,205,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,46,4.1
+133,LG,20490,Single Door,210,5 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,26,4.4
+134,Whirlpool,13770,Single Door,184,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,9 Years,26,4.3
+135,Haier,23990,Double Door,237,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,36,4.4
+136,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.2
+137,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.4
+138,Samsung,37990,Double Door,322,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,20 Years,37,4.2
+139,CANDY,18490,Double Door,240,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,30,4.3
+140,Haier,60990,Single Door,602,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,44,4.5
+141,Whirlpool,25990,Single Door,235,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.2
+142,LG,27990,Double Door,246,3 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,29,4.3
+143,realme,13690,Single Door,205,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,45,4.1
+144,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,24,4.3
+145,Samsung,28990,Double Door,256,3 Star,1 year,Built-in Stabilizer,Digital Inverter Compressor,20 years,35,4.3
+146,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.4
+147,Haier,72590,Single Door,520,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,41,4.4
+148,Whirlpool,35300,Single Door,300,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,18,4.3
+149,Samsung,18990,Single Door,223,3 Star,1 year,Built-in Stabilizer,Digital Inverter Compressor,20 years,24,4.4
+150,Haier,37490,Double Door,358,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,31,4.3
+151,Haier,95490,Single Door,520,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,37,4.2
+152,Voltas,47840,Single Door,472,2 Star,1 Year,Built-in Stabilizer,Pro Smart Inverter Compressor,12 Years,43,4.3
+153,CANDY,46990,Single Door,602,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,32,4.6
+154,LG,25990,Double Door,240,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,37,4.4
+155,Whirlpool,28990,Single Door,270,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,24,4.2
+156,Haier,23990,Double Door,237,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,36,4.4
+157,Haier,34990,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Digital Inverter Compressor,10 Years,31,4.3
+158,Samsung,18990,Single Door,223,3 Star,1 year,Built-in Stabilizer,Pro Smart Inverter Compressor,20 years,26,4.4
+159,Voltas,53900,Single Door,563,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,12 Years,42,4.3
+160,Haier,32990,Double Door,328,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,31,4.3
+161,Haier,24990,Double Door,237,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,32,4.4
+162,Whirlpool,24890,Single Door,215,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,16,4.3
+163,Midea,19990,Double Door,233,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,41,4.2
+164,realme,13990,Single Door,180,5 Star,1 Year,Built-in Stabilizer,Pro Smart Inverter Compressor,10 Years,51,4.1
+165,Voltas,22490,Double Door,228,3 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,43,4.2
+166,Godrej,22490,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,37,4.2
+167,Haier,57990,Single Door,596,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,43,4.5
+168,Samsung,72990,Double Door,419,3 Star,1 year,Built-in Stabilizer,Reciprocating Compressor,20 year,43,4.2
+169,Voltas,15990,Single Door,183,5 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,28,4.4
+170,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.4
+171,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,18,4.4
+172,Whirlpool,27990,Single Door,260,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,30,4.3
+173,LG,38990,Double Door,322,3 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,17,4.4
+174,Whirlpool,22390,Single Door,274,3 Star,1 Year,Built-in Stabilizer,Non Inverter Compressor,10 Years,25,4.1
+175,Blue,8990,Single Door,45,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,5 Years,20,4.1
+176,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,21,4.3
+177,Whirlpool,17950,Single Door,207,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,21,4.4
+178,Whirlpool,18990,Single Door,207,5 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,44,4.4
+179,Voltas,17990,Single Door,228,5 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,24,4.4
+180,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.3
+181,Whirlpool,16990,Single Door,192,5 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,43,4.4
+182,Voltas,17490,Single Door,208,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.4
+183,CANDY,10990,Single Door,185,2 Star,1 Year,Built-in Stabilizer,DC Inverter Compressor,10 Years,16,4.4
+184,Whirlpool,20490,Single Door,207,5 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,21,4.1
+185,Whirlpool,20009,Single Door,207,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,35,4.4
+186,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.4
+187,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,33,4.2
+188,Haier,99490,Single Door,598,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,46,5.0
+189,Voltas,14490,Single Door,183,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,23,4.4
+190,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,9 Years,37,4.4
+191,Godrej,22490,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,17,4.2
+192,Samsung,40490,Double Door,350,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,20 Years,33,4.2
+193,MOTOROLA,13290,Single Door,183,4 Star,1 Year,Built-in Stabilizer,Inverter compressor,10 Years,46,4.4
+194,Voltas,12290,Single Door,183,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,51,4.3
+195,Samsung,18310,Single Door,189,5 Star,1 Year,Built-in Stabilizer,Digital Inverter Compressor,20 Years,23,4.4
+196,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+197,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.4
+198,Whirlpool,16670,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,9 Years,22,4.2
+199,Haier,38990,Double Door,355,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,40,4.4
+200,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,20,4.3
+201,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,24,4.3
+202,Samsung,13290,Single Door,183,2 Star,1 year,Built-in Stabilizer,Inverter Compressor,20 year,21,4.4
+203,Samsung,25490,Double Door,236,2 Star,1 year,Built-in Stabilizer,Digital Inverter Compressor,20 years,29,4.4
+204,realme,12990,Single Door,180,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,55,4.1
+205,Haier,23990,Double Door,240,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,34,4.3
+206,Whirlpool,16990,Single Door,192,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,23,4.4
+207,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.4
+208,Whirlpool,20990,Single Door,207,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,25,5.0
+209,Samsung,48490,Double Door,419,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,20 Years,32,4.2
+210,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.2
+211,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.4
+212,Voltas,26990,Double Door,283,2 Star,1 Year,Built-in Stabilizer,Pro Smart Inverter Compressor,10 Years,43,4.2
+213,Whirlpool,22990,Double Door,235,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,9 Years,25,4.2
+214,Lloyd,11290,Single Door,165,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,31,4.1
+215,Whirlpool,18594,Single Door,200,3 Star,1 Year,Built-in Stabilizer,NORMAL COMPRESSOR,10 Years,15,4.8
+216,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+217,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.4
+218,Voltas,15490,Single Door,183,5 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,49,4.3
+219,IFB,24490,Double Door,243,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 years,35,4.2
+220,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,20,4.3
+221,Whirlpool,17950,Single Door,207,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,21,4.4
+222,Samsung,47490,Double Door,396,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,20 Years,30,4.2
+223,realme,11590,Single Door,180,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,47,4.3
+224,Haier,24990,Double Door,237,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,32,4.4
+225,Voltas,14990,Single Door,183,4 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,46,4.3
+226,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,24,4.3
+227,Whirlpool,16990,Single Door,192,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,23,4.4
+228,Midea,18990,Single Door,187,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,29,4.1
+229,BOSCH,18990,Single Door,207,4 Star,1 year,Built-in Stabilizer,Reciprocating Compressor,10 years,35,4.6
+230,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,37,4.4
+231,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,40,4.2
+232,Godrej,69990,Single Door,600,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,15,4.2
+233,Godrej,16890,Single Door,180,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,29,4.3
+234,Haier,11990,Single Door,185,2 Star,1 Year,Built-in Stabilizer,Normal compressor,10 Years,23,4.4
+235,Whirlpool,15890,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,9 Years,23,4.2
+236,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,37,4.4
+237,Godrej,22490,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,19,4.2
+238,Whirlpool,28733,Single Door,215,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,31,4.2
+239,Haier,32990,Double Door,328,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,15,4.3
+240,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+241,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.4
+242,Whirlpool,16840,Single Door,184,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,18,4.4
+243,Godrej,23651,Single Door,268,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,21,4.3
+244,Whirlpool,14990,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,9 Years,26,4.3
+245,Whirlpool,27782,Single Door,215,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,21,4.2
+246,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,20,4.3
+247,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,24,4.3
+248,Haier,11790,Single Door,175,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,28,4.3
+249,Godrej,19990,Single Door,194,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,33,4.3
+250,Whirlpool,16990,Single Door,192,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,23,4.4
+251,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.4
+252,CANDY,17490,Single Door,185,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,36,4.4
+253,BOSCH,17990,Single Door,207,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,68,4.6
+254,Sharp,9370,Single Door,50,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,24,4.4
+255,LG,23990,Double Door,242,2 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,37,4.2
+256,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,23,4.4
+257,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.3
+258,LG,13490,Single Door,185,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,30,4.3
+259,Haier,24490,Double Door,240,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,37,4.2
+260,Godrej,22490,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,44,4.5
+261,Haier,60990,Single Door,602,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.3
+262,BOSCH,38990,Double Door,334,2 Star,1 year,Built-in Stabilizer,Smart inverter compressor,10 years,31,4.3
+263,Haier,12490,Single Door,190,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,36,4.6
+264,LG,30990,Double Door,272,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,26,4.4
+265,Voltas,26490,Double Door,283,2 Star,1 Year,Built-in Stabilizer,Pro Smart Inverter Compressor,10 Years,43,4.2
+266,Haier,72590,Single Door,520,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,41,4.4
+267,Haier,95490,Single Door,520,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,37,4.2
+268,Godrej,13190,Single Door,183,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,32,4.2
+269,Whirlpool,26730,Single Door,235,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,9 Years,25,4.3
+270,Haier,34990,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,31,4.3
+271,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.4
+272,Samsung,15490,Single Door,183,4 Star,1 year,Built-in Stabilizer,Digital Inverter Compressor,20 years,29,4.4
+273,BOSCH,18490,Single Door,207,5 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,37,4.6
+274,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,27,4.4
+275,LG,74990,Single Door,655,2 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,37,4.4
+276,Haier,24990,Double Door,237,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,32,4.4
+277,Haier,32990,Double Door,328,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,31,4.3
+278,Midea,18990,Single Door,187,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,17,4.1
+279,Whirlpool,17990,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,36,4.4
+280,Haier,23990,Double Door,237,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,31,4.4
+281,Haier,37490,Double Door,358,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,29,4.3
+282,Samsung,105495,Single Door,653,5 Star,1 Year,Built-in Stabilizer,Digital Inverter Compressor,20 Years,13,4.3
+283,LG,10290,Single Door,43,1 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,16,3.9
+284,Whirlpool,42490,Double Door,312,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,47,4.1
+285,realme,20490,Double Door,253,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,37,4.3
+286,Godrej,22490,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,44,4.2
+287,Haier,60990,Single Door,602,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,32,4.5
+288,Voltas,22990,Double Door,228,3 Star,1 Year,Built-in Stabilizer,Pro Smart Inverter Compressor,10 Years,43,4.2
+289,LG,74990,Single Door,655,2 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,37,4.4
+290,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+291,Godrej,20790,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,38,4.2
+292,Haier,37490,Double Door,358,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,31,4.3
+293,LG,14490,Single Door,185,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,23,4.4
+294,LG,17490,Single Door,185,5 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,23,4.5
+295,LG,17290,Single Door,185,5 Star,1 year,Built-in Stabilizer,Smart Inverter Compressor,10 years,27,4.4
+296,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.4
+297,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,20,4.3
+298,LG,27990,Double Door,264,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,27,4.4
+299,Whirlpool,26990,Single Door,240,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.2
+300,Whirlpool,17950,Single Door,207,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,21,4.4
+301,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,24,4.3
+302,Whirlpool,15949,Single Door,200,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,20,3.9
+303,Samsung,15490,Single Door,183,3 Star,1 year,Built-in Stabilizer,Digital Inverter Compressor,20 years,22,4.4
+304,Whirlpool,25690,Double Door,245,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,21,4.3
+305,Whirlpool,15690,Single Door,184,4 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,9 Years,19,4.3
+306,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.4
+307,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.2
+308,MOTOROLA,47990,Single Door,584,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,48,4.2
+309,Whirlpool,16438,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,18,3.8
+310,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.4
+311,Haier,60990,Single Door,602,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,44,4.5
+312,BOSCH,30990,Double Door,269,3 Star,1 year,Built-in Stabilizer,Smart inverter compressor,10 years,35,4.2
+313,Samsung,42990,Double Door,385,2 Star,1 year,Built-in Stabilizer,Reciprocating Compressor,20 years,37,4.2
+314,Whirlpool,17990,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,20,4.4
+315,LG,25990,Double Door,242,2 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,18,4.4
+316,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.2
+317,Godrej,20790,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,38,4.1
+318,realme,12990,Single Door,180,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,50,4.3
+319,Whirlpool,23999,Double Door,235,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,30,4.4
+320,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.1
+321,Whirlpool,20490,Single Door,207,5 Star,1 Year,Built-in Stabilizer,DC Inverter Compressor,10 Years,16,4.3
+322,Whirlpool,16999,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Non Inverter Compressor,10 Years,25,4.2
+323,Voltas,61990,Single Door,640,2 Star,1 Year,Built-in Stabilizer,Pro Smart Inverter Compressor,12 Years,38,4.4
+324,Haier,18900,Single Door,190,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,27,4.3
+325,Whirlpool,17950,Single Door,207,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,21,4.3
+326,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,20,4.2
+327,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,24,4.2
+328,Samsung,44990,Double Door,396,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,20 Years,30,4.4
+329,Whirlpool,23990,Double Door,231,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,9 Years,30,4.2
+330,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.2
+331,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.3
+332,Whirlpool,15990,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,9 Years,25,4.3
+333,Whirlpool,23950,Double Door,235,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,17,4.4
+334,Samsung,64990,Single Door,550,2 Star,1 year,Built-in Stabilizer,Digital Inverter Compressor,20 years,26,4.2
+335,Kenstar,12390,Single Door,183,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,50,4.0
+336,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+337,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.4
+338,MOTOROLA,47990,Single Door,584,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,48,4.2
+339,Whirlpool,15690,Single Door,184,4 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,9 Years,19,4.3
+340,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,20,4.3
+341,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,24,4.3
+342,Kelvinator,10350,Single Door,45,2 Star,1 Year,Built-in Stabilizer,NexGen inverter compressor,10 Years,15,4.1
+343,Haier,18900,Single Door,190,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,27,4.2
+344,Lloyd,18800,Single Door,188,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,14,4.4
+345,Whirlpool,16438,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,18,3.8
+346,Whirlpool,16990,Single Door,192,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,23,4.4
+347,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.4
+348,Whirlpool,20150,Single Door,207,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,22,4.4
+349,Samsung,49190,Double Door,419,2 Star,1 year,Built-in Stabilizer,Reciprocating Compressor,20 year,32,4.2
+350,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.2
+351,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.4
+352,Whirlpool,17960,Single Door,200,3 Star,1 Year,Built-in Stabilizer,Linear Compressor,10 Years,11,4.6
+353,BOSCH,18990,Single Door,207,5 Star,1 year,Built-in Stabilizer,Reciprocating Compressor,10 years,35,4.4
+354,Lloyd,16980,Single Door,188,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,39,4.4
+355,LG,72990,Single Door,655,2 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,37,4.2
+356,Godrej,22490,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,44,4.5
+357,Haier,60990,Single Door,602,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,16,4.4
+358,Godrej,31900,Double Door,272,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,25,4.1
+359,Whirlpool,20600,Single Door,215,5 Star,1 Year,Built-in Stabilizer,IntelliSense Inverter Compressor,10 Years,15,5.0
+360,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+361,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.4
+362,Samsung,23990,Single Door,246,3 Star,1 Year,Built-in Stabilizer,Digital Inverter Compressor,20 Years,22,4.3
+363,Whirlpool,14490,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,23,4.4
+364,Godrej,24990,Double Door,272,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,42,4.1
+365,Samsung,28490,Double Door,256,3 Star,1 Year,Built-in Stabilizer,Digital Inverter Compressor,20 Years,33,4.3
+366,Godrej,20790,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,38,4.2
+367,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,20,4.3
+368,Godrej,22900,Double Door,238,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,23,4.2
+369,Whirlpool,18490,Single Door,207,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+370,Whirlpool,17950,Single Door,207,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,21,4.4
+371,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,24,4.3
+372,Whirlpool,18690,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,12,4.3
+373,Whirlpool,14990,Single Door,184,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,17,4.3
+374,Lloyd,21999,Single Door,195,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,26,4.1
+375,Whirlpool,21599,Double Door,235,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,28,3.0
+376,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.4
+377,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.2
+378,BOSCH,37990,Double Door,334,2 Star,1 year,Built-in Stabilizer,Smart inverter compressor,10 years,37,4.3
+379,Whirlpool,27350,Double Door,265,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,12,4.4
+380,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.4
+381,Haier,60990,Single Door,602,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,44,4.5
+382,Whirlpool,31690,Single Door,330,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,31,3.6
+383,Whirlpool,14190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,16,4.3
+384,Samsung,42990,Double Door,385,2 Star,1 year,Built-in Stabilizer,Reciprocating Compressor,20 years,37,4.2
+385,CANDY,67490,Single Door,602,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,28,4.6
+386,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.4
+387,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,9 Years,20,4.4
+388,LG,14490,Single Door,185,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,18,4.4
+389,Whirlpool,26489,Double Door,259,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,20,4.3
+390,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,24,4.3
+391,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,9 Years,18,4.3
+392,LG,25990,Double Door,242,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,12,4.4
+393,Sharp,10462,Single Door,92,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,2.9
+394,Haier,19199,Single Door,190,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,26,4.4
+395,Whirlpool,22199,Double Door,235,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,23,4.4
+396,Whirlpool,16990,Single Door,192,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.2
+397,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,20,4.4
+398,Godrej,27690,Double Door,272,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,30,4.2
+399,IFB,16990,Single Door,187,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 years,37,4.4
+400,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,23,4.0
+401,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,26,4.4
+402,Whirlpool,32490,Double Door,308,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,18,4.5
+403,Whirlpool,20490,Single Door,207,5 Star,1 Year,Built-in Stabilizer,Digital Inverter Compressor,10 Years,9,4.2
+404,Samsung,19927,Single Door,183,5 Star,1 year,Built-in Stabilizer,Fixed Compressor,20 year,37,4.5
+405,Acer,23999,Single Door,215,3 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,44,4.4
+406,Godrej,22490,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,18,4.0
+407,Haier,60990,Single Door,602,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,18,4.0
+408,Samsung,18950,Single Door,189,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,20 Years,26,4.5
+409,Godrej,32490,Double Door,308,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,35,4.2
+410,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+411,Godrej,20790,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,38,4.2
+412,LG,42990,Double Door,340,2 Star,1 year,Built-in Stabilizer,Smart Inverter Compressor,10 years,30,4.5
+413,Liebherr,16990,Single Door,191,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,20 Years,24,4.4
+414,Whirlpool,16550,Single Door,200,5 Star,1 Year,Built-in Stabilizer,DC Inverter Compressor,10 Years,16,4.4
+415,Whirlpool,16590,Single Door,190,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,15,4.3
+416,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.4
+417,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,20,4.3
+418,Whirlpool,20490,Single Door,207,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,18,4.4
+419,Voltas,16990,Single Door,208,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,50,4.4
+420,Whirlpool,17950,Single Door,207,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,21,4.4
+421,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,24,4.3
+422,Whirlpool,16590,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,26,4.3
+423,LG,17490,Single Door,185,5 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,22,4.5
+424,Haier,27490,Double Door,240,2 Star,2 Year,Built-in Stabilizer,Inverter Compressor,10 Years,27,4.1
+425,Whirlpool,40590,Double Door,431,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,44,4.1
+426,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.4
+427,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.2
+428,Whirlpool,20990,Single Door,207,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,25,3.8
+429,Godrej,69990,Single Door,600,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,40,4.2
+430,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.4
+431,Haier,60990,Single Door,602,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,44,4.5
+432,Whirlpool,18690,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,12,4.3
+433,Whirlpool,14990,Single Door,184,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,17,4.3
+434,Lloyd,21999,Single Door,195,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,26,4.1
+435,Haier,17999,Single Door,190,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,34,4.4
+436,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+437,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.4
+438,Lloyd,18870,Single Door,195,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,33,4.1
+439,Godrej,27999,Double Door,244,2 Star,1 Year,Built-in Stabilizer,Inverter compressor,1 Year,29,4.3
+440,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,20,4.3
+441,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,24,4.2
+442,Panasonic,30490,Double Door,237,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,12,4.4
+443,Whirlpool,27350,Double Door,265,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,27,4.1
+444,Haier,27490,Double Door,240,2 Star,2 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.4
+445,Haier,30999,Double Door,300,2 Star,2 Year,Built-in Stabilizer,Inverter Compressor,10 Years,23,4.4
+446,Whirlpool,16990,Single Door,192,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.2
+447,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,25,4.0
+448,Whirlpool,15990,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,9 Years,28,4.2
+449,Midea,17900,Single Door,215,3 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.4
+450,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,23,4.6
+451,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,9 Years,27,4.4
+452,LG,17290,Single Door,185,5 Star,1 year,Built-in Stabilizer,Reciprocating Compressor,10 years,50,4.3
+453,Kenstar,12390,Single Door,183,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,18,4.3
+454,Whirlpool,15990,Single Door,184,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,17,4.0
+455,Whirlpool,15699,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,28,1.0
+456,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+457,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.4
+458,IFB,13990,Single Door,187,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 years,20,4.4
+459,Godrej,10999,Single Door,97,1 Star,1 Year,Built-in Stabilizer,Fixed Speed Compressor,10 Years,24,4.4
+460,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,20,4.3
+461,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,24,4.3
+462,Haier,12599,Single Door,190,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,32,4.3
+463,Whirlpool,16990,Single Door,184,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,17,4.4
+464,Haier,52590,Double Door,445,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,32,3.7
+465,Whirlpool,16999,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Non Inverter Compressor,10 Years,14,4.4
+466,Whirlpool,16990,Single Door,192,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,23,4.4
+467,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.5
+468,Samsung,18950,Single Door,189,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,20 Years,26,3.7
+469,BPL,8380,Single Door,45,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,5 Years,32,4.2
+470,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.4
+471,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.2
+472,Whirlpool,34999,Double Door,327,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,38,4.3
+473,Whirlpool,16599,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,20,4.3
+474,Kelvinator,10350,Single Door,45,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,17,3.9
+475,Whirlpool,23199,Double Door,235,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,25,4.2
+476,Godrej,22490,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.5
+477,Haier,60990,Single Door,602,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,44,2.7
+478,MOTOROLA,89990,Single Door,584,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,24,4.2
+479,Whirlpool,17490,Single Door,192,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.4
+480,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+481,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.4
+482,LG,17490,Single Door,185,5 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,22,4.5
+483,Whirlpool,25300,Double Door,265,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,17,4.3
+484,Electrolux,75990,Double Door,431,1 Star,1 Year,Built-in Stabilizer,Hermetic Reciprocating Compressor,10 Years,46,4.2
+485,Rockwell,10200,Single Door,91,1 Star,1 year,Built-in Stabilizer,Normal Compressor,4 year,20,2.7
+486,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,24,4.3
+487,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,25,4.3
+488,Whirlpool,20990,Single Door,207,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,35,3.8
+489,Whirlpool,33999,Double Door,327,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.2
+490,Whirlpool,16990,Single Door,192,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.4
+491,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,13,4.4
+492,Whirlpool,16395,Single Door,200,3 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,30,4.3
+493,LG,42990,Double Door,340,2 Star,1 year,Built-in Stabilizer,Inverter Compressor,10 years,31,4.5
+494,TOSHIBA,19900,Double Door,253,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,27,3.9
+495,BOSCH,21990,Single Door,226,4 Star,1 year,Built-in Stabilizer,Reciprocatory Compressor,10 years,37,4.3
+496,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,23,4.2
+497,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,DC Inverter Compressor,9 Years,16,4.4
+498,Whirlpool,16550,Single Door,200,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,13,4.4
+499,Whirlpool,23490,Double Door,235,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,3.6
+500,Godrej,22490,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,44,4.2
+501,Haier,60990,Single Door,602,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,45,4.5
+502,Power,9839,Single Door,47,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,3 Years,35,4.2
+503,Samsung,34990,Double Door,301,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,31,3.9
+504,LG,30990,Double Door,272,2 Star,1 year,Built-in Stabilizer,Smart Inverter Compressor,10 years,27,4.5
+505,Haier,19850,Single Door,190,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,32,3.7
+506,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+507,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.4
+508,Haier,18700,Single Door,190,5 Star,2 Year,Built-in Stabilizer,Inverter Compressor,10 Years,37,4.3
+509,Whirlpool,19590,Single Door,215,5 Star,1 Year,Built-in Stabilizer,IntelliSense Inverter Compressor,10 Years,21,4.3
+510,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,20,4.4
+511,Whirlpool,17950,Single Door,207,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,21,4.3
+512,Voltas,39990,Double Door,432,2 Star,1 Year,Built-in Stabilizer,Pro Smart Inverter Compressor,12 Years,33,3.8
+513,Godrej,14399,Single Door,180,2 Star,1 Year,Built-in Stabilizer,Fixed Speed Compressor,10 Years,26,4.2
+514,Samsung,34990,Double Door,301,3 Star,1 year,Built-in Stabilizer,Reciprocating Compressor,20 years,36,3.6
+515,ONIDA,10390,Single Door,92,1 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,35,4.3
+516,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,24,4.4
+517,Whirlpool,16990,Single Door,192,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,23,4.2
+518,Godrej,69999,Single Door,600,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,44,4.5
+519,Haier,20650,Single Door,190,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,23,4.4
+520,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,35,4.2
+521,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,37,4.5
+522,Whirlpool,14290,Single Door,184,3 Star,1 Year,Built-in Stabilizer,Hermetic Reciprocating Compressor,9 Years,22,4.2
+523,Electrolux,89990,Double Door,503,1 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,31,4.4
+524,LG,24990,Double Door,242,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,31,4.2
+525,Whirlpool,13590,Single Door,184,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.4
+526,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.2
+527,Godrej,22490,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Digital Compressor,10 Years,26,3.8
+528,Whirlpool,16390,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,13,4.2
+529,Whirlpool,16549,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,20,4.6
+530,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,28,4.4
+531,Godrej,20790,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,38,4.2
+532,Whirlpool,18590,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Inverter compressor,10 Years,23,3.0
+533,Godrej,31490,Double Door,272,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,24,4.3
+534,Whirlpool,15990,Single Door,190,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 year,20,4.1
+535,Lloyd,15602,Single Door,188,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,22,4.4
+536,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,22,4.3
+537,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,IntelliSense Inverter Compressor,10 Years,20,4.3
+538,Whirlpool,26596,Single Door,215,5 Star,1 Year,Built-in Stabilizer,Hermetic Reciprocating Compressor,10 Years,1,4.2
+539,Electrolux,92990,Double Door,503,1 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,21,4.4
+540,Whirlpool,17950,Single Door,207,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,9 Years,24,4.3
+541,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Digital Inverter Compressor,10 Years,55,3.8
+542,Power,11199,Single Door,91,2 Star,1 Year,Built-in Stabilizer,Non Inverter Compressor,20 Years,42,4.3
+543,Samsung,75290,Single Door,653,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,21,4.3
+544,Whirlpool,18709,Single Door,207,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,32,4.4
+545,Haier,12599,Single Door,190,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,35,4.2
+546,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,37,4.4
+547,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Inverter compressor,10 Years,37,4.5
+548,Haier,92592,Single Door,628,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,1 Year,29,4.4
+549,Godrej,27999,Double Door,244,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,3.0
+550,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,44,5.0
+551,Haier,60990,Single Door,602,2 Star,1 year,Built-in Stabilizer,Smart inverter compressor,10 years,35,4.1
+552,BOSCH,44652,Double Door,368,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,30,4.3
+553,Whirlpool,27320,Double Door,235,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,26,4.1
+554,Lloyd,37999,Double Door,310,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,34,4.3
+555,Whirlpool,16595,Single Door,190,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.4
+556,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+557,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,22,4.6
+558,BOSCH,17890,Single Door,187,4 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,29,4.4
+559,LG,16490,Single Door,185,4 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,26,4.3
+560,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,20,4.3
+561,Whirlpool,13190,Single Door,184,2 Star,1 year,Built-in Stabilizer,Smart inverter compressor,10 years,24,4.5
+562,BOSCH,30990,Double Door,269,3 Star,1 year,Built-in Stabilizer,Digital Inverter Compressor,20 years,35,4.3
+563,Samsung,16990,Single Door,183,5 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,22,4.1
+564,Whirlpool,15800,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,28,4.4
+565,ONIDA,12939,Single Door,195,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,36,4.4
+566,Whirlpool,16990,Single Door,192,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,23,4.2
+567,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Digital Inverter Compressor,20 Years,35,4.2
+568,Samsung,16880,Single Door,183,3 Star,10 Year,Built-in Stabilizer,reciprocatory compressor,1 year,23,4.2
+569,Haier,21301,Single Door,190,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,26,4.4
+570,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,37,4.4
+571,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.3
+572,Whirlpool,16560,Single Door,200,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,22,4.1
+573,Haier,18999,Single Door,190,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 years,29,4.1
+574,Haier,19999,Single Door,185,4 Star,1 Year,Built-in Stabilizer,Rotary Compressor,10 Years,27,3.0
+575,BPL,10320,Single Door,85,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,31,3.0
+576,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,28,4.4
+577,Godrej,20790,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,38,4.2
+578,Kelvinator,19590,Single Door,187,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,12,4.3
+579,Haier,13499,Single Door,175,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,18,4.4
+580,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,22,4.3
+581,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,20,4.1
+582,ONIDA,12939,Single Door,195,2 Star,2 YEAR,Built-in Stabilizer,Normal Compressor,10 YEARS,36,4.4
+583,Haier,18490,Single Door,205,5 Star,1 Year,Built-in Stabilizer,Digital Inverter Compressor,10 Years,33,4.2
+584,Haier,17999,Single Door,190,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,31,4.4
+585,Panasonic,22190,Single Door,190,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,21,4.3
+586,Whirlpool,17950,Single Door,207,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,24,3.8
+587,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Fixed Speed Compressor,10 Years,24,4.4
+588,Whirlpool,15199,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,26,4.2
+589,Godrej,14399,Single Door,180,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,35,4.2
+590,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,37,4.5
+591,Godrej,24990,Double Door,244,4 Star,3 Year,Built-in Stabilizer,Digital Inverter Compressor,10 Years,45,3.7
+592,Godrej,62999,Single Door,600,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,20 Years,13,4.4
+593,Samsung,16499,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,42,4.5
+594,Panasonic,35970,Double Door,292,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,32,4.6
+595,Haier,52590,Double Door,445,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.2
+596,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,44,3.8
+597,Haier,60990,Single Door,602,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 years,29,4.0
+598,IFB,19990,Single Door,206,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,1 Year,28,4.0
+599,Godrej,23006,Double Door,233,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,26,4.5
+600,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+601,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,22,4.4
+602,Haier,95490,Single Door,520,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,37,4.2
+603,Haier,20999,Single Door,215,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,24,4.1
+604,Whirlpool,17390,Single Door,200,4 Star,1 Year,Built-in Stabilizer,DC Inverter Compressor,10 Years,13,4.3
+605,Whirlpool,17395,Single Door,200,5 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,14,4.4
+606,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,20,4.3
+607,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,24,4.3
+608,Voltas,14949,Single Door,185,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,44,4.2
+609,Haier,14490,Single Door,190,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,5.0
+610,Whirlpool,16990,Single Door,192,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,23,4.4
+611,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,35,4.4
+612,Lloyd,15249,Single Door,188,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,30,4.1
+613,Midea,99990,Single Door,563,2 Star,1 Year,Built-in Stabilizer,Pro Smart Inverter Compressor,12 Years,21,2.6
+614,Voltas,67990,Double Door,695,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,37,3.3
+615,Haier,23590,Double Door,240,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.2
+616,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.4
+617,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,VarioInverter Compressor,10 Years,11,4.2
+618,BOSCH,22450,Single Door,195,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,40,4.5
+619,Lloyd,15635,Single Door,188,3 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,37,4.6
+620,Godrej,22490,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,44,5.0
+621,Haier,60990,Single Door,602,2 Star,1 year,Built-in Stabilizer,Reciprocating Compressor,10 years,33,4.4
+622,BOSCH,17490,Single Door,187,5 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,14,5.0
+623,Midea,23990,Single Door,215,2 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,35,5.0
+624,LG,17880,Single Door,190,3 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,2,4.5
+625,Lloyd,15279,Single Door,188,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,37,4.4
+626,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+627,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,22,4.3
+628,Whirlpool,20686,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,1,3.8
+629,Whirlpool,46350,Double Door,467,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,47,4.3
+630,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,20,4.3
+631,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,24,4.3
+632,Haier,13499,Single Door,175,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,18,4.6
+633,Voltas,16291,Single Door,175,1 Star,1 year,Built-in Stabilizer,Normal Compressor,10 years,32,4.3
+634,BOSCH,20490,Single Door,207,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,19,4.4
+635,Whirlpool,26990,Double Door,260,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,25,4.4
+636,Whirlpool,16990,Single Door,192,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,23,4.8
+637,Haier,35490,Double Door,325,3 Star,1 year,Built-in Stabilizer,Digital Inverter Compressor,10 years,35,4.2
+638,Whirlpool,26990,Double Door,235,2 Star,1 year,Built-in Stabilizer,Reciprocatory Compressor,20 year,26,4.4
+639,Samsung,20454,Single Door,183,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,7,4.3
+640,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,37,4.3
+641,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,23,4.6
+642,Whirlpool,14399,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,24,4.2
+643,Whirlpool,17500,Single Door,192,5 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,24,4.5
+644,Whirlpool,17379,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,16,4.6
+645,Whirlpool,23190,Single Door,274,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,27,5.0
+646,Godrej,22490,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,37,2.0
+647,Haier,60990,Single Door,602,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,44,4.4
+648,Whirlpool,14290,Single Door,184,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,1 Year,22,4.5
+649,Godrej,16820,Single Door,180,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,34,4.7
+650,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,28,4.4
+651,Godrej,20790,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,38,4.2
+652,Whirlpool,15490,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,21,4.2
+653,Whirlpool,13590,Single Door,184,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,12 Years,31,4.2
+654,Voltas,37270,Double Door,339,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,12,4.2
+655,Whirlpool,17549,Single Door,192,5 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,22,4.4
+656,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,22,4.3
+657,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,20,3.9
+658,Haier,13400,Single Door,185,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,36,4.4
+659,LG,45300,Double Door,246,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,1,4.3
+660,Whirlpool,17950,Single Door,207,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,21,4.3
+661,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,24,3.9
+662,Whirlpool,18990,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,15,4.2
+663,Lloyd,10190,Single Door,92,1 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,28,4.4
+664,Whirlpool,19690,Single Door,207,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,27,4.4
+665,LG,22950,Single Door,235,3 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,35,4.2
+666,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,37,3.7
+667,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,DC Inverter Compressor,10 Years,24,4.3
+668,Haier,23500,Single Door,253,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,17,4.4
+669,Whirlpool,19260,Single Door,207,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,23,4.5
+670,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,44,4.3
+671,Haier,60990,Single Door,602,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,20 Years,15,5.0
+672,Samsung,64022,Double Door,530,1 Star,1 Year,Built-in Stabilizer,Digital Inverter Compressor,20 Years,32,4.1
+673,Samsung,16961,Single Door,183,3 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,22,4.2
+674,Godrej,14297,Single Door,183,2 Star,1 Year,Built-in Stabilizer,Digital Inverter Compressor,10 Years,25,4.3
+675,Panasonic,15999,Single Door,197,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,10,4.4
+676,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,28,4.4
+677,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Metal Compressor Machine Room,5 Years,22,4.3
+678,Walton,18990,Single Door,190,5 Star,1 year,Built-in Stabilizer,Digital Inverter Compressor,20 years,32,4.3
+679,Samsung,99990,Single Door,633,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,34,4.3
+680,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,20,4.3
+681,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,24,4.5
+682,Godrej,16249,Single Door,183,3 Star,1 Year,Built-in Stabilizer,Digital Inverter Compressor,20 Years,18,4.2
+683,Samsung,14999,Single Door,183,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,9 year,16,4.4
+684,Lloyd,23989,Double Door,240,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,45,4.4
+685,Panasonic,42690,Double Door,357,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,44,4.2
+686,Whirlpool,16990,Single Door,192,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,23,4.2
+687,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,35,4.2
+688,Whirlpool,28990,Single Door,228,2 Star,1 Year,Built-in Stabilizer,Digital Compressor,10 Years,22,4.4
+689,Whirlpool,16390,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,13,4.6
+690,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,37,4.6
+691,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,23,4.3
+692,Whirlpool,16549,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,20,4.3
+693,Panasonic,31499,Double Door,237,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,37,4.2
+694,Whirlpool,18424,Single Door,192,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,16,5.0
+695,Whirlpool,15699,Single Door,190,4 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,25,5.0
+696,Whirlpool,15790,Single Door,192,4 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,28,4.4
+697,Godrej,20790,Double Door,223,2 Star,1 Year,Built-in Stabilizer,Reciprocating Compressor,10 Years,38,4.2
+698,Whirlpool,15938,Single Door,184,3 Star,1 Year,Built-in Stabilizer,Pro Smart Inverter Compressor,12 Years,9,4.3
+699,Voltas,67990,Double Door,695,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,21,2.6
+700,Whirlpool,16790,Single Door,184,5 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,22,4.4
+701,Whirlpool,12190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Smart Inverter Compressor,10 Years,20,4.3
+702,LG,30000,Double Door,242,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,14,4.4
+703,Godrej,23386,Single Door,268,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,22,4.3
+704,Whirlpool,15390,Single Door,184,4 Star,1 year,Built-in Stabilizer,Inverter Compressor,10 year,19,4.2
+705,Whirlpool,19999,Single Door,236,4 Star,1 Year,Built-in Stabilizer,Normal Compressor,9 Years,26,4.3
+706,Whirlpool,17950,Single Door,207,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,21,4.4
+707,Whirlpool,13190,Single Door,184,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,24,4.3
+708,Haier,43990,Double Door,328,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,30,5.0
+709,Whirlpool,19595,Single Door,207,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,27,4.3
+710,Haier,35490,Double Door,325,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,9 Years,35,4.4
+711,Whirlpool,16390,Single Door,184,5 Star,1 Year,Built-in Stabilizer,DC Inverter Compressor,9 Years,23,4.4
+712,Whirlpool,42490,Double Door,312,3 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,22,4.4
+713,Whirlpool,17190,Single Door,215,3 Star,1 Year,Built-in Stabilizer,Normal Compressor,10 Years,16,4.3
+714,Lloyd,22310,Double Door,240,2 Star,1 Year,Built-in Stabilizer,Reciprocatory Compressor,10 Years,46,4.3
+715,Whirlpool,26990,Double Door,260,2 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,25,4.2
+716,Godrej,24990,Double Door,244,4 Star,1 Year,Built-in Stabilizer,Digital Inverter Compressor,10 Years,37,4.5
+717,Haier,60990,Single Door,602,2 Star,1 year,Built-in Stabilizer,Normal Compressor,20 year,44,4.1
+718,Samsung,20454,Single Door,183,5 Star,1 Year,Built-in Stabilizer,Inverter Compressor,10 Years,7,4.4
